@@ -1,0 +1,7 @@
+Package: ios26sade
+Name: iOS 26 Sade Tema
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Minimal iOS 26 icons for iOS 16.1.2
+Filename: debs/ios26sade.deb
+Size: 102400
