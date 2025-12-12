@@ -1,0 +1,8 @@
+Origin: yelmeromerfaruk1 Repo
+Label: iOS Custom Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Custom iOS Theme Repo
